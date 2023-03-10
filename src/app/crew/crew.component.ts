@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class CrewComponent {
 
+  crew: string[] = ["Jessica Watkins", "Raja Chari", "Jasmin Moghbeli"]
+
 }
